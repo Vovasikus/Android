@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">38 parrots</string>
+    <string name="radiobutton_meters">В метрах</string>
+    <string name="radiobutton_parrots">В попугаях</string>
+    <string name="buttonConvert_text">Конвертировать</string>
+    <color name="activity_color">#3399cc</color>
+</resources>
