@@ -1,0 +1,7 @@
+#Mon Oct 02 21:00:56 YEKT 2017
+base.0=C\:\\Users\\codetmn17\\AndroidStudioProjects\\GeomCalc\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_477e96afcf321cd72df2cfa88c4950441d845d6d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\codetmn17\\AndroidStudioProjects\\GeomCalc\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a32c87b6d7615813588a6aee6f2e1ef447812d77\\classes.dex
+base.1=C\:\\Users\\codetmn17\\AndroidStudioProjects\\GeomCalc\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a32c87b6d7615813588a6aee6f2e1ef447812d77
+file.0=C\:\\Users\\codetmn17\\AndroidStudioProjects\\GeomCalc\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_477e96afcf321cd72df2cfa88c4950441d845d6d\\classes.dex

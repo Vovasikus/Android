@@ -1,0 +1,4 @@
+#Mon Oct 02 20:26:36 YEKT 2017
+base.0=C\:\\Users\\codetmn17\\AndroidStudioProjects\\GeomCalc\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
+renamed.0=classes.dex
+file.0=C\:\\Users\\codetmn17\\AndroidStudioProjects\\GeomCalc\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex

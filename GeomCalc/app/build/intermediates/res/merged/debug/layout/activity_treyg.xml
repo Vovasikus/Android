@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.codetmn17.geomcalc.TreygActivity">
+
+    <EditText
+        android:id="@+id/editTextTreygA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:ems="10"
+        android:hint="@string/a_hint"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editTextTreygB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editTextTreygA"
+        android:ems="10"
+        android:hint="@string/b_hint"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editTextTreygC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editTextTreygB"
+        android:ems="10"
+        android:hint="@string/c_hint"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/buttonTreygRez"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editTextTreygC"
+        android:onClick="onClickTreygRez"
+        android:text="@string/rez_text" />
+</RelativeLayout>

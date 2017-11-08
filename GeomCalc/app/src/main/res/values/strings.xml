@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Калькулятор геометрических фигур</string>
+    <string name="p_text">Периметр</string>
+    <string name="s_text">Площадь</string>
+    <string name="treyg_text">Треугольник</string>
+    <string name="kvad_text">Квадрат</string>
+    <string name="pryam_text">Прямоугольник</string>
+    <string name="krug_text">Круг</string>
+    <string name="rez_text">Посчитать</string>
+    <string name="a_hint">Сторона A</string>
+    <string name="b_hint">Сторона B</string>
+    <string name="c_hint">Сторона C</string>
+    <string name="r_hint">Радиус</string>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.codetmn17.geomcalc.MainActivity">
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/radioGroup">
+
+        <RadioButton
+            android:id="@+id/radioButtonP"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/p_text" />
+
+        <RadioButton
+            android:id="@+id/radioButtonS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/s_text" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/buttonTreyg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/radioGroup"
+        android:onClick="onClickFigure"
+        android:text="@string/treyg_text" />
+
+    <Button
+        android:id="@+id/buttonKvad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/buttonTreyg"
+        android:onClick="onClickFigure"
+        android:text="@string/kvad_text" />
+
+    <Button
+        android:id="@+id/buttonPryam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/buttonKvad"
+        android:onClick="onClickFigure"
+        android:text="@string/pryam_text" />
+
+    <Button
+        android:id="@+id/buttonKrug"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/buttonPryam"
+        android:onClick="onClickFigure"
+        android:text="@string/krug_text" />
+</RelativeLayout>
